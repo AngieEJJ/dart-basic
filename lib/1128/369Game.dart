@@ -51,3 +51,27 @@ void main () {
     print('Player4 clap 총 갯수: ${clapCountsByPlayer[3]}');
   print('가장 많은 clap을 출력한 플레이어: $playerWithMaxClap');
   }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
