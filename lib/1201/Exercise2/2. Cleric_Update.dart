@@ -30,24 +30,4 @@ class Cleric {
   final hero1 = Cleric('아서스', hp: 40, mp:5);
   // 1번 답. named parameter {} -> 파라미터가 필수
 
-  void selfAid() {
-    mp -= 5; // mp = mp-5
-    hp = MaxHP;
-  }
-
-  int pray(int sec) {
-    final beforeMP = mp;
-    print('beforeMP는 $mp');
-
-    final recoverdMP = sec + Random().nextInt(3);
-
-    mp += recoverdMP; // mp = mp+revocerdMP
-    print('recoverdMP는 $mp');
-
-    if (mp > MaxMP) {
-      mp = MaxMP;
-      print('maxMP는 $mp');
-    }
-    return beforeMP - mp;
-  }
 }
