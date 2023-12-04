@@ -11,3 +11,15 @@ void main() {
     }
   }
 }
+
+// 일단 아래처럼 함수랑 결과를 만들고 그 가운데를 완성해가는 식이야
+
+// void main () {}
+
+//int solution () {
+// int result = 0;
+// return result;
+// }
+
+//무지성 뺑뻉이 = 처음부터 끝까지 돌기 = for in
+//contain 쓰는 방법ㅌ

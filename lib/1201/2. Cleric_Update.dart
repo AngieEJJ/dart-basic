@@ -6,8 +6,8 @@
 import 'dart:math';
 
 class Cleric {
-  static const int MaxMP = 10;
-  static const int MaxHP = 50;
+  static const int maxMP = 10;
+  static const int maxHP = 50;
 
   /* (문제2) 아래의 방침에 따라, 생성자를 추가 하시오
 1. 이 클래스는 Cleric(“아서스", hp: 40, mp: 5) 와 같이, 이름, HP, MP 를 지정하여 인스턴스화 할 수 있다
@@ -21,7 +21,7 @@ class Cleric {
   int hp;
   int mp;
 
-  Cleric(this.name, {this.mp= MaxMP, this.hp=MaxHP});
+  Cleric(this.name, {this.mp= maxMP, this.hp=maxHP});
   // 2번, 3번, 4번 답. 초기값을 설정했기 때문에 28번째 줄을 ('아서스', hp:35)만 넣어도 오류가 없음.
   // mp는 초기값인 10이 되고, hp는 10으로 설정했기 때문에 초기값이 아닌 10이 됨.
   // **추가) 원래 나는 this.mp랑 this.hp 다음에 바로 숫자 10, 50을 넣었고 static 다음에 const를 안 넣었음.
