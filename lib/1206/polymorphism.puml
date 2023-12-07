@@ -1,0 +1,25 @@
+@startuml
+class A
+class B
+abstract class Y
+interface X {
+void a()
+}
+
+class B extends Y {
+void a()
+void b()
+void c()
+}
+
+class A extends Y {
+void a()
+void b()
+void c()
+}
+
+abstract class Y implements X {
+void b()
+}
+
+@enduml

@@ -1,0 +1,12 @@
+@startuml
+class Book
+class Computer
+abstract class TangibleAsset
+abstract class TangibleAsset
+interface Thing
+
+class Computer extends TangibleAsset
+class Book extends TangibleAsset
+abstract class TangibleAsset extends Asset implements Thing
+
+@enduml
