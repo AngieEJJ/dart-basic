@@ -1,0 +1,57 @@
+@startuml
+abstract class Race {
+    String name
+    int hp
+}
+
+
+
+interface Unit {
+    void move()
+}
+interface Bionic
+interface Mechanic
+interface Building
+interface Healable
+interface Repairable
+interface Recoverable {
+    void recover()
+}
+
+interface BionicUnit implements Unit, Bionic, Healable
+interface MechanicUnit implements Unit, Mechanic, Repairable
+interface BionicBuilding implements Building, Bionic
+
+package "Terran"{
+    abstract class Terran extends Race
+    class Marine extends Terran implements BionicUnit
+    class Medic extends Terran implements BionicUnit {
+        void heal(Healable)
+    }
+    class SCV extends Terran implements MechanicUnit, Healable {
+        int mine(Resource)
+        void repair(Repairable)
+    }
+    class Vulture extends Terran implements MechanicUnit
+    class Tank extends Terran implements MechanicUnit
+}
+
+package "Zerg"{
+    abstract class Zerg extends Race implements Recoverable
+}
+
+package "Protoss"{
+    abstract class Protoss extends Race implements Recoverable {
+        int shield
+    }
+    class Zealor extends Protoss implements BionicUnit
+    class Dragun extends Protoss implements MechanicUnit
+}
+class Squadron {
+    static final maxCount = 12
+    List<Unit> members;
+
+    void add(Unit)
+}
+
+@enduml
