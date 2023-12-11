@@ -8,14 +8,20 @@ void main () {
   final file = File('save.txt');
   final copyFile = File('target.txt');
 
-  file.writeAsStringSync('original');
-  copyFile.writeAsStringSync('copy');
+  file.writeAsStringSync('original2');
+//   copyFile.writeAsStringSync('copy');
+//
+//   copyFile.writeAsStringSync(file.readAsStringSync()); // 복사 = 원본 파일 읽어서, 읽어온 내용을 복사할 파일에 write로 써주기
+//
+// final text = copyFile.readAsStringSync();
+// print(text); // 복사한 결과
+//Source에 있는걸 읽어서 target에 쓰기. 이게 바로 복사!
 
-  copyFile.writeAsStringSync(file.readAsStringSync()); // 복사 = 원본 파일 읽어서, 읽어온 내용을 복사할 파일에 write로 써주기
 
-final text = copyFile.readAsStringSync();
-print(text); // 복사한 결과
-
+copy ('save.txt' , 'target.txt'); // 함수호출
 }
 
-//Source에 있는걸 읽어서 target에 쓰기. 이게 바로 복사!
+void copy(String save, String target) { // copy 함수 이용
+  File(save).copySync(target);
+  print('복사완료');
+}
