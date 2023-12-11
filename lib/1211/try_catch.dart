@@ -5,14 +5,14 @@
 // final numString = '10.5';
 // int num = int.parse(numString);
 //
-// void main () {
-//   try {
-//     print(num); // 에러 발생 코드
-//   } catch (e) { // 에러 정보 담고 있는 객체
-//     int num = 0;
-//     print(num);// 에러 발생하면 실행시킬 코드
-//   }
-// }
+void main () {
+  try {
+    print(num); // 에러 발생 코드
+  } catch (e) { // 에러 정보 담고 있는 객체
+    int num = 0;
+    print(num);// 에러 발생하면 실행시킬 코드
+  }
+}
 
 // void main () {
 //   int parseInt = parse('10.5');
