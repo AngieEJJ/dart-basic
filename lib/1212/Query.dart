@@ -78,12 +78,13 @@ void main () {
    .max;
  print(maxValue);
 
+  // 8. 전체 트랜잭션 중 최소값은 얼마인가?
  int minValue = transactions
   .map((e) => e.value)
   .min;
  print(minValue);
 
-  // 8. 전체 트랜잭션 중 최소값은 얼마인가?
+
 
 
 }
