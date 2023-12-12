@@ -2,18 +2,35 @@
 // 코드를 수정하여 try-catch() 문을 사용하여 예외처리를 하시오. 예외처리에는 다음의 처리를 수행하시오.
 // 예외가 발생하면 0으로 처리
 
+// 내 답
 // final numString = '10.5';
 // int num = int.parse(numString);
-//
-void main () {
-  try {
-    print(num); // 에러 발생 코드
-  } catch (e) { // 에러 정보 담고 있는 객체
-    int num = 0;
-    print(num);// 에러 발생하면 실행시킬 코드
+
+// void main () {
+//   try {
+//     print(num); // 에러 발생 코드
+//   } catch (e) { // 에러 정보 담고 있는 객체
+//     int num = 0;
+//     print(num);// 에러 발생하면 실행시킬 코드
+//   }
+// }
+
+//강사님꺼 이거 말고 3가지 버전 깃에 있음
+// void main () {
+//   final numString = '10.5';
+//   try {
+//     int num = int.parse(numString);
+//     print(num); // num 출력
+//   } catch (e) {
+//     print(0); // 0 출력
+//   }
+// }
+
   }
 }
 
+
+//유신님꺼
 // void main () {
 //   int parseInt = parse('10.5');
 //   print(parseInt);

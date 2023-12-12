@@ -25,6 +25,7 @@ class Employee {
       };
 }
 
+// 안쪽에 있는 모든 클래스가 직렬화 되어야 한다.
 class Department {
   String department;
   Employee leader;
@@ -40,7 +41,7 @@ class Department {
 
   Map<String, dynamic> toJson() => {
         'department': department,
-        'leader': leader,
+        'leader': leader // leader.toJson() 이 들어가야 함. 나는 leader로 넣었음
       };
 }
 
@@ -53,18 +54,18 @@ void main() {
 
 //txt 파일 생성하고, json 파일을 내용에 넣기. department에 leader도 들어가 있음.
   final myFile = File('company.txt');
-  myFile.writeAsStringSync(jsonEncode(department.toJson()));
+  myFile.writeAsStringSync(jsonEncode(department.toJson())); // 인코드해주기
 
   String readString = myFile.readAsStringSync();//department.toJson()
   print(readString);
 
+  //디코드 해보기
   Map<String, dynamic> json = jsonDecode(readString);
 
- Employee leader2 = Employee.fromJson(json['leader']);
-
-  Employee.fromJson(json['leader']);
+  Employee leader2 = Employee.fromJson(json['leader']);
 
   print(leader2.name);
   print(leader2.age);
+
 
 }

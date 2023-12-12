@@ -25,3 +25,6 @@ void copy(String save, String target) { // copy 함수 이용
   File(save).copySync(target);
   print('복사완료');
 }
+
+// 복사 순서는 읽어서 쓰는거다. 따라서 강사님 코드 보면 read write 순서로 되어 있다. 굳이 파일을 두개 만들지 않았는데 바로 복사 파일도 생김
+// 아 내꺼가 한줄 버전이구나. 근데 가독성 안 좋아짐.
