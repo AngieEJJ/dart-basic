@@ -15,14 +15,14 @@ void main () {
 }
 
 
-void main() {
-  List<int> numbers = [0, 1, 2, 3, 4, 5];
-
-  int sum = numbers.reduce((total, element) {
-    return total + element;
-  });
-  print(sum); // 15
-
-  // 람다식 간소화
-  int sum2 = numbers.reduce((total, element) => total + element);
-  print(sum2); // 15
+// void main() {
+//   List<int> numbers = [0, 1, 2, 3, 4, 5];
+//
+//   int sum = numbers.reduce((total, element) {
+//     return total + element;
+//   });
+//   print(sum); // 15
+//
+//   // 람다식 간소화
+//   int sum2 = numbers.reduce((total, element) => total + element);
+//   print(sum2); // 15

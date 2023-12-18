@@ -20,7 +20,7 @@ enum KeyType {
   finger;
 }
 
-class StrongBox<E>extends KeyType{
+class StrongBox<E> extends KeyType{
   String keyKind;
   int KeyTry = 0;
 
