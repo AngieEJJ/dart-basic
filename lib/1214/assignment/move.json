@@ -1,0 +1,409 @@
+{
+  "dates": {
+    "maximum": "2024-01-10",
+    "minimum": "2023-12-20"
+  },
+  "page": 1,
+  "results": [
+    {
+      "adult": false,
+      "backdrop_path": "/k1KrbaCMACQiq7EA0Yhw3bdzMv7.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        10402,
+        14,
+        35
+      ],
+      "id": 901362,
+      "original_language": "en",
+      "original_title": "Trolls Band Together",
+      "overview": "전 세계 모든 트롤을 열광케 했던 최고의 아이돌 그룹 ‘브로존’. 역대급 무대 실수와 형제 간의 불화로 결국 해체한 뒤, 모두에게 잊혀 간다. 그러던 어느 날, ‘브로존’의 황금막내 ‘브랜치’는 메인보컬 ‘플로이드’가 슈퍼스타 ‘벨벳’과 ‘비니어’에게 잡혀 재능을 빼앗기고 있다는 소식을 듣는다. 그를 구하기 위해서는 흩어져 있는 ‘브로존’을 재결합하고 완벽한 화음을 되찾아야 하는데… 12월, 가장 짜릿한 컴백 무대의 시작!",
+      "popularity": 920.108,
+      "poster_path": "/7M2pc9OboapgtoBbkU49Aim7O5B.jpg",
+      "release_date": "2023-10-12",
+      "title": "트롤 밴드 투게더",
+      "video": false,
+      "vote_average": 7.166,
+      "vote_count": 380
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/AucuqDaUW4z1oT5XyL71qwRY2F6.jpg",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "id": 983507,
+      "original_language": "no",
+      "original_title": "Meg, deg \\u0026 Frank",
+      "overview": "",
+      "popularity": 609.004,
+      "poster_path": "/9DPG1gxLwV2oyFdHq3SnISsWbse.jpg",
+      "release_date": "2022-06-03",
+      "title": "Meg, deg \\u0026 Frank",
+      "video": false,
+      "vote_average": 6.7,
+      "vote_count": 107
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/bckxSN9ueOgm0gJpVJmPQrecWul.jpg",
+      "genre_ids": [
+        28,
+        12,
+        14
+      ],
+      "id": 572802,
+      "original_language": "en",
+      "original_title": "Aquaman and the Lost Kingdom",
+      "overview": "아틀란티스 왕국을 이끌 왕의 자리에 오른 아쿠아맨. 그 앞에 블랙 만타가 세상을 뒤흔들 강력한 지배 아이템 블랙 트라이던트를 손에 넣게 된다. 그동안 겪지 못 했던 최악의 위협 속 아쿠아맨은 블랙 만타와 손을 잡았던 이복 동생 옴 없이는 절대적 힘이 부족한 상황. 바다를 지배할 슈퍼 히어로가 세상의 판도를 바꾼다!",
+      "popularity": 522.991,
+      "poster_path": "/eDps1ZhI8IOlbEC7nFg6eTk4jnb.jpg",
+      "release_date": "2023-12-20",
+      "title": "아쿠아맨과 로스트 킹덤",
+      "video": false,
+      "vote_average": 8.462,
+      "vote_count": 13
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/bWIIWhnaoWx3FTVXv6GkYDv3djL.jpg",
+      "genre_ids": [
+        878,
+        27,
+        28
+      ],
+      "id": 940721,
+      "original_language": "ja",
+      "original_title": "ゴジラ-1.0",
+      "overview": "",
+      "popularity": 439.588,
+      "poster_path": "/buvBq2zLP7CcJth8tjrI4znvfEO.jpg",
+      "release_date": "2023-11-03",
+      "title": "고지라-1.0",
+      "video": false,
+      "vote_average": 8.045,
+      "vote_count": 145
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ehumsuIBbgAe1hg343oszCLrAfI.jpg",
+      "genre_ids": [
+        16,
+        10751,
+        14,
+        12
+      ],
+      "id": 1022796,
+      "original_language": "en",
+      "original_title": "Wish",
+      "overview": "마음 속 깊이 ‘소원’을 품고 있는 모두를 위한 디즈니의 마법! 용감한 ‘아샤’와 신비로운 ‘별’의 특별한 여정 \\u0026 소원과 얽힌 비밀스러운 힘을 지닌 ‘매그니피코 왕’의 숨겨진 스토리까지! 2024년 1월, 믿고 듣는 디즈니표 명품 OST와 함께 아름다운 로사스 왕국에서 펼쳐지는 가슴 벅찬 이야기!",
+      "popularity": 280.638,
+      "poster_path": "/lnOgP8Fl2dQ73d4Qu24O2zcKFFS.jpg",
+      "release_date": "2023-11-13",
+      "title": "위시",
+      "video": false,
+      "vote_average": 6.664,
+      "vote_count": 122
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/mowTk9LFSr8rW3EG2CUSwzuvx0g.jpg",
+      "genre_ids": [
+        10402
+      ],
+      "id": 1160164,
+      "original_language": "en",
+      "original_title": "TAYLOR SWIFT | THE ERAS TOUR",
+      "overview": "이 문화적 현상이 대형 스크린에서 계속됩니다! 역사에 남을 숨 막히는 장면을 영화처럼 감상하며 일생일대의 콘서트 영화 체험에 푹 빠져보세요",
+      "popularity": 292.778,
+      "poster_path": "/pm6cudRCaKofVRDQBTgl5kzejK1.jpg",
+      "release_date": "2023-10-13",
+      "title": "테일러 스위프트: 디 에라스 투어",
+      "video": false,
+      "vote_average": 8.239,
+      "vote_count": 159
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ptz5ETMxDoRRiE69BVuIxJzyTEO.jpg",
+      "genre_ids": [
+        16,
+        35,
+        12,
+        10751
+      ],
+      "id": 940551,
+      "original_language": "en",
+      "original_title": "Migration",
+      "overview": "가족을 과잉보호하는 아빠 ‘맥’ 때문에 평생을 작은 연못에서 안전하게 살아온 말러드 가족. 하지만 호기심 가득한 남매 ‘댁스’와 ‘그웬’을 위해 새로운 세상을 모험하고 싶은 엄마 ‘팸’의 설득으로 가족들은 항상 꿈꿔온 자메이카로 생애 첫 가족 모험을 떠나기로 한다! 설렘 넘치는 시작과 달리 태풍을 만나 길을 잃고, 낯선 친구들을 만나고, 위험 가득한 뉴욕에 불시착하게 된다. 인생 처음으로 모든 계획이 틀어지고 위기에 빠진 말러드 가족은 서툴지만 서로를 의지하며 모험을 계속한다. 새로운 세상, 함께라면 두려울 것 없어!",
+      "popularity": 323.777,
+      "poster_path": "/2xE3NI6zElWhwN9WJ92fqbZKmzZ.jpg",
+      "release_date": "2023-12-06",
+      "title": "인투 더 월드",
+      "video": false,
+      "vote_average": 7.6,
+      "vote_count": 31
+    },
+    {
+      "adult": false,
+      "backdrop_path": null,
+      "genre_ids": [
+        99
+      ],
+      "id": 1192578,
+      "original_language": "es",
+      "original_title": "Elijo creer",
+      "overview": "",
+      "popularity": 266.959,
+      "poster_path": "/tAX05FIcjnllogMa2r0FmamNhpU.jpg",
+      "release_date": "2023-12-07",
+      "title": "Elijo creer",
+      "video": false,
+      "vote_average": 7,
+      "vote_count": 2
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/pA3vdhadJPxF5GA1uo8OPTiNQDT.jpg",
+      "genre_ids": [
+        28,
+        18
+      ],
+      "id": 678512,
+      "original_language": "en",
+      "original_title": "Sound of Freedom",
+      "overview": "로시오와 미겔 오누이를 비롯한 온두라스 아이들이 지젤의 아동 인신매매 조직에 납치된다. 한편 미 국토안보부 아동대상 인터넷범죄 전담팀(HSI) 특수요원 팀 발라드는 아동 포르노를 배포하던 성범죄자 오신스키를 검거한다. 팀은 오신스키를 이용해 아동 성착취범 얼을 체포하고 미겔을 구출한다. 미겔은 팀에게 로시오를 구해 달라고 부탁하며 누나의 목걸이를 건넨다. 미겔이 아버지 품으로 돌아간 후, 팀은 로시오를 찾기 위해 콜롬비아 카르타헤나로 향한다. 팀은 현지 경찰 호르헤를 통해 카르텔 회계사 출신의 뱀피로를 소개받는다. 팀은 이 일을 하는 이유가 \"하나님의 아이들이 매매의 대상이 되어서는 안 되기 때문\"이라고 말한다. 팀과 뱀피로는 아동 섹스 클럽을 미끼로 인신매매범들을 유인하기로 계획한다. HSI의 프로스트가 팀에게 작전을 중지하고 미국으로 돌아오라고 지시한다. 팀은 아이들을 구하기 위해 사직서를 제출하고, 부동산 개발회사 CEO 파블로를 작전에 합류시키는데...",
+      "popularity": 230.581,
+      "poster_path": "/qA5kPYZA7FkVvqcEfJRoOy4kpHg.jpg",
+      "release_date": "2023-07-03",
+      "title": "사운드 오브 프리덤",
+      "video": false,
+      "vote_average": 8.082,
+      "vote_count": 1608
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/8RBwd37p2p48lUmZuWBLSkFLprd.jpg",
+      "genre_ids": [
+        27,
+        53,
+        35
+      ],
+      "id": 1113278,
+      "original_language": "en",
+      "original_title": "It's a Wonderful Knife",
+      "overview": "",
+      "popularity": 205.348,
+      "poster_path": "/bnm5NntrQBcG3P7DbO00v2FmXm8.jpg",
+      "release_date": "2023-11-10",
+      "title": "It's a Wonderful Knife",
+      "video": false,
+      "vote_average": 5.4,
+      "vote_count": 34
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/iEFuHjqrE059SmflBva1JzDJutE.jpg",
+      "genre_ids": [
+        16,
+        14,
+        28,
+        10749,
+        10751
+      ],
+      "id": 496450,
+      "original_language": "fr",
+      "original_title": "Miraculous - le film",
+      "overview": "마법 보석의 수호자로 인해 슈퍼히어로가 된 수줍음 많은 소녀와 인기 많은 소년. 정반대에 끌리는 두 사람은 서로에게조차 정체를 밝힐 수 없는데.",
+      "popularity": 162.296,
+      "poster_path": "/iu4qpzsyBcnWhiwh1BxTAJefTmS.jpg",
+      "release_date": "2023-07-05",
+      "title": "미라큘러스: 레이디버그와 블랙캣, 더 무비",
+      "video": false,
+      "vote_average": 7.791,
+      "vote_count": 688
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/qElNES0sHVQcbzvGrTx7ccpGzij.jpg",
+      "genre_ids": [
+        878,
+        28,
+        18
+      ],
+      "id": 842675,
+      "original_language": "zh",
+      "original_title": "流浪地球2",
+      "overview": "태양계 소멸의 위기를 맞은 인류는 지구 표면에 거대한 엔진을 달아 궤도를 옮기는 ‘유랑지구 프로젝트’에 돌입한다. 하지만, 데이터베이스로 영생을 가지려는 ‘디지털 라이프’와 대립하게 되며 프로젝트는 난관에 부딪히게 되고, 그 과정 속 달과의 충돌이라는 예상치 못한 대재앙에 놓이게 되는데… 살아남기 위한 선택은 단 하나, 달을 파괴하라!",
+      "popularity": 140.589,
+      "poster_path": "/pajq0n6FZivirCg1ifpe4zYKvsA.jpg",
+      "release_date": "2023-01-22",
+      "title": "유랑지구 2",
+      "video": false,
+      "vote_average": 7.249,
+      "vote_count": 411
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/a0GM57AnJtNi7lMOCamniiyV10W.jpg",
+      "genre_ids": [
+        16,
+        12,
+        14,
+        18
+      ],
+      "id": 508883,
+      "original_language": "ja",
+      "original_title": "君たちはどう生きるか",
+      "overview": "화재로 어머니를 잃은 11살 소년 ‘마히토’는 아버지와 함께 어머니의 고향으로 간다. 어머니에 대한 그리움과 새로운 보금자리에 적응하느라 힘들어하던 ‘마히토’ 앞에 정체를 알 수 없는 왜가리 한 마리가 나타나고, 저택에서 일하는 일곱 할멈으로부터 왜가리가 살고 있는 탑에 대한 신비로운 이야기를 듣게 된다. 그러던 어느 날, ‘마히토’는 사라져버린 새엄마 ‘나츠코’를 찾기 위해 탑으로 들어가고, 왜가리가 안내하는 대로 이세계(異世界)의 문을 통과하는데…!",
+      "popularity": 122.123,
+      "poster_path": "/kmoScy628A6JWv8mmd2ofrYv16T.jpg",
+      "release_date": "2023-07-14",
+      "title": "그대들은 어떻게 살 것인가",
+      "video": false,
+      "vote_average": 7.252,
+      "vote_count": 278
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/gsVC7HMf4VR2XFOyqjTSklY2Tms.jpg",
+      "genre_ids": [
+        878,
+        35,
+        14,
+        18
+      ],
+      "id": 792307,
+      "original_language": "en",
+      "original_title": "Poor Things",
+      "overview": "대학에서 해부학을 가르치고 있는 교수인 고드윈 벡스터는 젊고 아름다운 여성 벨라와 함께 살고 있다. 어린 아기의 지능을 가지고 있는 벨라를 고드윈은 마치 자신의 딸처럼 아끼며 그녀에게 말과 행동을 가르친다. 한편 고드윈의 제자이자 평소 그를 존경해 왔던 맥스는 고드윈 교수와 가까이 지내게 되면서 벨라를 만나게 된다. 벨라의 이상 행동에 관심을 갖기 시작하는 맥스, 고드윈 박사로부터 벨라는 얼마 전에 자살한 여자를 자신이 의학적으로 되살린 것이라는 충격적인 말을 듣게 된다. 하지만 이미 벨라에게 마음을 뺏긴 맥스는 고드윈 박사의 제안에 따라 그녀와 약혼하기로 결심하는데...",
+      "popularity": 134.07,
+      "poster_path": "/jG4o67eZKlvuL5R6WTysRkPwE75.jpg",
+      "release_date": "2023-12-07",
+      "title": "가여운 것들",
+      "video": false,
+      "vote_average": 9,
+      "vote_count": 12
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/50stq3Jlny6oEgJjsXbQvbajCNw.jpg",
+      "genre_ids": [
+        18,
+        10749
+      ],
+      "id": 1020006,
+      "original_language": "en",
+      "original_title": "Priscilla",
+      "overview": "",
+      "popularity": 130.201,
+      "poster_path": "/nmYB2z1M83IrxeNI4etrs3YGSxO.jpg",
+      "release_date": "2023-10-27",
+      "title": "프리실라",
+      "video": false,
+      "vote_average": 7.167,
+      "vote_count": 63
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/ktHEdqmMWC1wdfPRMRCTZe2OISL.jpg",
+      "genre_ids": [
+        27,
+        53,
+        9648
+      ],
+      "id": 1071215,
+      "original_language": "en",
+      "original_title": "Thanksgiving",
+      "overview": "",
+      "popularity": 130.127,
+      "poster_path": "/f5f3TEVst1nHHyqgn7Z3tlwnBIH.jpg",
+      "release_date": "2023-11-16",
+      "title": "땡스기빙",
+      "video": false,
+      "vote_average": 6.4,
+      "vote_count": 111
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/gg4zZoTggZmpAQ32qIrP5dtnkEZ.jpg",
+      "genre_ids": [
+        28,
+        80
+      ],
+      "id": 891699,
+      "original_language": "en",
+      "original_title": "Silent Night",
+      "overview": "",
+      "popularity": 126.164,
+      "poster_path": "/tlcuhdNMKNGEVpGqBZrAaOOf1A6.jpg",
+      "release_date": "2023-11-30",
+      "title": "사일런트 나이트",
+      "video": false,
+      "vote_average": 6.7,
+      "vote_count": 47
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/97MOhHIgU6ZdLcB9DrAhx3WAqrU.jpg",
+      "genre_ids": [
+        18,
+        35
+      ],
+      "id": 839369,
+      "original_language": "en",
+      "original_title": "May December",
+      "overview": "신문 1면을 장식한 스캔들의 주인공 그레이시(줄리안 무어), 그리고 20년 후 그녀를 연기하게 된 배우 엘리자베스(나탈리 포트만)의 묘한 만남을 담은 영화",
+      "popularity": 125.299,
+      "poster_path": "/yibtHDMO70RueiEmtrcJeTiiHFo.jpg",
+      "release_date": "2023-11-16",
+      "title": "메이 디셈버",
+      "video": false,
+      "vote_average": 6.826,
+      "vote_count": 115
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/jBOyi3ibJbVa1imTCcddPUxTVAV.jpg",
+      "genre_ids": [
+        35,
+        27,
+        14
+      ],
+      "id": 956920,
+      "original_language": "no",
+      "original_title": "There's Something in the Barn",
+      "overview": "",
+      "popularity": 123.409,
+      "poster_path": "/gncQ1homJA8exLRwELjR9vSYWC7.jpg",
+      "release_date": "2023-11-02",
+      "title": "There's Something in the Barn",
+      "video": false,
+      "vote_average": 7.3,
+      "vote_count": 51
+    },
+    {
+      "adult": false,
+      "backdrop_path": "/sQLMaESdeELB7Dl8HdxfGlZYRzu.jpg",
+      "genre_ids": [
+        35,
+        18
+      ],
+      "id": 840430,
+      "original_language": "en",
+      "original_title": "The Holdovers",
+      "overview": "미국 뉴잉글랜주의 한 고등학교의 선생으로 재직 중인 폴은 가족이나 이렇다 할 친구 하나 없이 자기만의 세상에 갇혀 사는 중년 남성이다. 곧 크리스마스가 다가오는 어느 날, 집에 가지 못하고 학교 기숙사에 남아야 하는 학생들을 지도하는 역할을 맡게 되고, 그 중에서도 집에 가기를 열망했으나 허사가 된 앵거스와 학교에 남게 된다. 거기에 아들과 사별한 기숙사 주방장 메리까지, 이 셋의 외로운 학교 ‘지킴이’ 생활이 시작되지만 크리스마스 기간 동안에도 공부를 강요하는 폴과 자유로운 영혼인 앵거스는 서로 부딪히기만 하는데…",
+      "popularity": 125.425,
+      "poster_path": "/VHSzNBTwxV8vh7wylo7O9CLdac.jpg",
+      "release_date": "2023-10-27",
+      "title": "바튼 아카데미",
+      "video": false,
+      "vote_average": 7.7,
+      "vote_count": 161
+    }
+  ],
+  "total_pages": 33,
+  "total_results": 655
+}

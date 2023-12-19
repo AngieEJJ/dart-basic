@@ -1,7 +1,6 @@
 import 'dart:convert';
-import 'package:collection/collection.dart';
 import 'package:http/http.dart' as http;
-import 'Movie.dart';
+import 'movie.dart';
 
 
 
@@ -10,13 +9,9 @@ Future<Movie> getMovieInfo() async {
   //요청
   final json = jsonDecode(response.body);
   //body만 가져와서 디코드
-  print(json);
+  // print(json);
   return Movie.fromJson(json);
-}
-
-  //인스턴스화
-
-
+}//인스턴스화
 
 void main () async{
 Movie movie = await getMovieInfo();

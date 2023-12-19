@@ -6,3 +6,14 @@ void main () {
       expect(reverseString('Hello'), 'olleH')
   );
 }
+
+//void main() {
+//   test('String test', () {
+//     expect(reverseString(str: 'Hello'), 'olleH');
+//     expect(reverseString(str: 'x'), 'x');
+//   });
+//
+//   test('Empty string test', () {
+//     expect(reverseString(str: ''), '');
+//   });
+// }
