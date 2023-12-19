@@ -8,8 +8,6 @@ extension StoresToStore on Stores {
     return Store(
       name: name ?? '',
       address: addr ?? '주소 없음',
-      stock: remainStat ?? 'null',
-      type: type != null ? int.parse(type!) : 0,
     );
   }
 }
