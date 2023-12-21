@@ -1,3 +1,2 @@
-<과제>
-### [링크 넣기 test](https://github.com/AngieEJJ/dart-basic/tree/main/lib/1215)
-: 테스트 입니다.
+### 오름캠프 다트 기초
+: 다트 기초 과제와 연습한 내용이 있습니다.
